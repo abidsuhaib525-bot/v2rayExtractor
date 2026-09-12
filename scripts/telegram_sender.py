@@ -24,7 +24,7 @@ CONFIG_CHANNEL_URL = f"https://t.me/{CONFIG_CHANNEL_ID_RAW}"
 
 MARKUP = types.InlineKeyboardMarkup(row_width=2)
 btn1 = types.InlineKeyboardButton("Github", url="https://github.com/abidsuhaib525-bot")
-btn2 = types.InlineKeyboardButton("Author", url="https://t.me/abidsuhaib525-bot")
+btn2 = types.InlineKeyboardButton("Author", url="https://t.me/Suhaib_525")
 MARKUP.add(btn1, btn2)
 
 
