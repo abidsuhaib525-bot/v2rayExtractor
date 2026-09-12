@@ -13,7 +13,7 @@ import telebot
 from telebot import types
 from telebot.apihelper import ApiTelegramException
 
-GITHUB_REPOSITORY = os.getenv('GITHUB_REPOSITORY', 'arshiacomplus/V2rayExtractor')
+GITHUB_REPOSITORY = os.getenv('GITHUB_REPOSITORY', 'abidsuhaib525-bot/v2rayExtractor')
 GITHUB_REPO_URL = f"https://github.com/{GITHUB_REPOSITORY}"
 
 MAIN_CHANNEL_ID_RAW = os.getenv('TELEGRAM_CHAT_ID', 'arshia_mod_fun').lstrip('@')
@@ -23,8 +23,8 @@ CONFIG_CHANNEL_ID_RAW = os.getenv('TELEGRAM_CHANNEL_ID', 'v2ray_Extractor').lstr
 CONFIG_CHANNEL_URL = f"https://t.me/{CONFIG_CHANNEL_ID_RAW}"
 
 MARKUP = types.InlineKeyboardMarkup(row_width=2)
-btn1 = types.InlineKeyboardButton("Github", url="https://github.com/arshiacomplus")
-btn2 = types.InlineKeyboardButton("Author", url="https://t.me/arshiacomplus")
+btn1 = types.InlineKeyboardButton("Github", url="https://github.com/abidsuhaib525-bot")
+btn2 = types.InlineKeyboardButton("Author", url="https://t.me/abidsuhaib525-bot")
 MARKUP.add(btn1, btn2)
 
 

@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+get-pip.py
+sub-checker/
+*.log
