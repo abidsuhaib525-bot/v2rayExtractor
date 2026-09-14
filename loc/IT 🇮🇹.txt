@@ -1,2 +1,1 @@
-vless://78440584-c334-44a8-bab1-8b1a7d08012b@188.114.96.3:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it10.webayikl.ir#%3E%3E%40v2rayng_fast%3A%3AIT
 vless://c676be7d-b481-4bba-88d0-65855e09dc67@116.204.164.60:7443?encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
