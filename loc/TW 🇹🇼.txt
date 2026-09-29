@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%3E%3E%40v2nodes%3A%3ATW
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@144.31.225.193:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-nl3.pleiades.codes&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ATW
