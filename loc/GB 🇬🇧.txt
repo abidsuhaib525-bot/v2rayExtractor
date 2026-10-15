@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AGB
-vless://b8254d35-1cb0-4b74-8f7f-d2bc985196a0@laga18.api3-max.ru:443?sni=laga18.api3-max.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3AGB
 vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
