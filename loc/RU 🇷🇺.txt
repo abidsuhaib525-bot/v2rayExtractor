@@ -1,1 +1,1 @@
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#%3E%3E%40configV2rayNG%3A%3ARU
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@fitindoor.net:2053?encryption=none&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ARU
