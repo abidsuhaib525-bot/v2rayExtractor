@@ -135,6 +135,27 @@ def send_with_rate_limit_handling(bot_instance, *args, **kwargs):
                 logging.error(f"An unhandled Telegram API error occurred: {e}")
                 break
 
+MAX_MESSAGE_BLOCK_LEN = 3700  # Telegram's hard limit is 4096 chars incl. caption; keep headroom
+
+def chunk_configs(configs: List[str], max_per_batch: int = 15) -> List[List[str]]:
+    """Split configs into batches of at most max_per_batch items that also fit
+    Telegram's message length limit. (Packing 15 long configs into one message
+    caused HTTP 400 'message is too long', so batches are now also capped by
+    total character length.)"""
+    batches: List[List[str]] = []
+    current: List[str] = []
+    current_len = 0
+    for cfg in configs:
+        cfg_len = len(cfg) + 2  # "\n\n" separator
+        if current and (len(current) >= max_per_batch or current_len + cfg_len > MAX_MESSAGE_BLOCK_LEN):
+            batches.append(current)
+            current, current_len = [], 0
+        current.append(cfg)
+        current_len += cfg_len
+    if current:
+        batches.append(current)
+    return batches
+
 def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_configs: Dict[str, List[str]]):
 
     for source in sorted(grouped_configs.keys()):
@@ -144,8 +165,7 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
 
         logging.info(f"Sending {len(configs)} configs from source '{source}' to {channel_id}")
 
-        for i in range(0, len(configs), 15):
-            batch = configs[i:i + 15]
+        for batch in chunk_configs(configs):
             message_text = "```\n" + "\n\n".join(batch) + "\n```"
 
             iran_tz = pytz.timezone("Asia/Tehran")
