@@ -1,1 +1,2 @@
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999#%3E%3E%40freeland8%3A%3AGB
 vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#%3E%3E%40configV2rayNG%3A%3AGB
