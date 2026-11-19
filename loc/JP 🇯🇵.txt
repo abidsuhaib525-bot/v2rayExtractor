@@ -1,2 +1,3 @@
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%3E%3E%40configV2rayNG%3A%3AJP
 vless://1751bebc-1bf1-420c-8b9d-97157aad179b@168.110.21.56:18453?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vless://df97ce68-477f-4484-94c7-79eccab7319d@31.76.91.73:443?security=reality&encryption=none&pbk=Bl-k0ABaVMOc-zIJG-EXiZPJSx6IW48yL6N46IZ0ZEY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jap1.angelsleep9.com#%3E%3E%40configV2rayNG%3A%3AJP
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%3E%3E%40configV2rayNG%3A%3AJP
