@@ -1,3 +1,2 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectingpeoplewithgreatjobs.com#%3E%3E%40configV2rayNG%3A%3ACA
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?encryption=none&fp=chrome&security=tls&sni=kuruish.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACA
-vless://d8b42cd5-b149-4356-9e61-444444444444@87.82.59.60:837?#%3E%3E%40v2nodes%3A%3ACA
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&encryption=none&insecure=0&host=kuruish.org&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#%3E%3E%40configV2rayNG%3A%3ACA

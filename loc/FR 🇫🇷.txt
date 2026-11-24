@@ -1,4 +1,2 @@
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?encryption=none&path=%2Fvless-kulo&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?encryption=none&host=138.124.70.41&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
