@@ -1,1 +1,1 @@
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=sinavm2.soft10.ir#%3E%3E%40configV2rayNG%3A%3AGB
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sinavm2.soft10.ir&fp=unsafe&type=ws&allowInsecure=0&sni=sinavm2.soft10.ir#%3E%3E%40configV2rayNG%3A%3AGB

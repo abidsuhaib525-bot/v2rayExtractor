@@ -1,1 +1,0 @@
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?path=%2Fapi%2Fv2%2Fstream&security=tls&encryption=none&extra=%7B%22noSSEHeader%22%3Afalse%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=plaksa.bootless.ru#%3E%3E%40configV2rayNG%3A%3APL
